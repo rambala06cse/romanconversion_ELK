@@ -5,7 +5,7 @@
 
 This project is build on Spring REST API for converting integer number to its equivalent Roman Number.
 
-Sample Rest Endpoint and results.
+Sample Rest Endpoint & results.
 ````
  1) 
  Request: http://localhost:8080/romannumeral?query?=10
